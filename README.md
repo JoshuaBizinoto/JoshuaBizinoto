@@ -3,8 +3,9 @@
  :eyeglasses: Almejo uma carreira na área por isso busco a especialização.
  :earth_americas: Moro no Espirito Santo!
 
-![image](https://github.com/user-attachments/assets/c0de728d-928c-4495-9d79-5086f6a338ed) 
 Por enquanto fico por aqui! Mas estou ansioso para melhorar e aprimorar esse perfil!
+
+![image](https://github.com/user-attachments/assets/c0de728d-928c-4495-9d79-5086f6a338ed) 
 
 
 <!--
