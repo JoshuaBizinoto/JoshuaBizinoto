@@ -1,9 +1,9 @@
 ## Olá, me chamo Joshua!
- :eyes: Atualmente estudo conteúdos relacionados a JavaScript, HTML e CSS!
- :eyeglasses: Almejo uma carreira na área por isso busco a especialização.
- :earth_americas: Moro no Espirito Santo!
+ - :eyes: Atualmente estudo conteúdos relacionados a JavaScript, HTML e CSS!
+ - :eyeglasses: Almejo uma carreira na área por isso busco a especialização.
+ - :earth_americas: Moro no Espirito Santo!
 
-Por enquanto fico por aqui! Mas estou ansioso para melhorar e aprimorar esse perfil!
+- Por enquanto fico por aqui! Mas estou ansioso para melhorar e aprimorar esse perfil!
 
 ![image](https://github.com/user-attachments/assets/c0de728d-928c-4495-9d79-5086f6a338ed) 
 
